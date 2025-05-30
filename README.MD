@@ -10,6 +10,19 @@
 
 ### Aplicação da normalização até a Terceira Forma Normal (3FN), com justificativa técnica das escolhas e eliminação de anomalias.
 
+| Tabela         | 1FN | 2FN | 3FN | Observações |
+| -------------- | --- | --- | --- | ----------- |
+| Cliente        | ✅   | ✅   | ✅   | OK          |
+| Endereco       | ✅   | ✅   | ✅   | OK          |
+| Telefone       | ✅   | ✅   | ✅   | OK          |
+| Email          | ✅   | ✅   | ✅   | OK          |
+| Veiculo        | ✅   | ✅   | ✅   | OK          |
+| Pedido         | ✅   | ✅   | ✅   | OK          |
+| Conta          | ✅   | ✅   | ✅   | OK          |
+| Pagamento      | ✅   | ✅   | ✅   | OK          |
+| Financiamento  | ✅   | ✅   | ✅   | OK          |
+| Vendedor       | ✅   | ✅   | ✅   | OK          |
+| Concessionaria | ✅   | ✅   | ✅   | OK          |
 
 
 ##
